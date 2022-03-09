@@ -1,7 +1,5 @@
 # A Fast Single Image Haze Removal Algorithm Using Color Attenuation Prior
 
-### Pin-Ting Wang
-
 **Author:** Qingsong Zhu, Jiaming Mai, and Ling Shao
 
 **Conference:** IEEE Transactions on Image Processing 2015
